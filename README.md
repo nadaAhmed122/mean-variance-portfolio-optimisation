@@ -39,11 +39,14 @@ Risk-adjusted performance metrics included:
 - Sortino Ratio
 - Jensen’s Alpha
 
-The restricted short-selling tangency portfolio achieved:
+The restricted short-selling tangency portfolio achieved improved risk-adjusted performance relative to the unconstrained portfolio:
 
 Expected Monthly Excess Return: **2.10%**  
 Volatility: **4.05%**  
 Sharpe Ratio: **0.518**
+
+This reflects the role of short-selling constraints as an implicit regularisation mechanism, improving diversification and reducing estimation error sensitivity in optimised portfolios.
+
 
 ---
 
